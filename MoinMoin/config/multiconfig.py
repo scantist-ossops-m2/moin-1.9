@@ -1071,6 +1071,7 @@ options_no_group_name = {
     ('mimetypes_xss_protect',
      [
        'text/html',
+       'image/svg+xml',
        'application/x-shockwave-flash',
        'application/xhtml+xml',
      ],
